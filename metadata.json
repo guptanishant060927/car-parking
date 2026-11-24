@@ -1,0 +1,6 @@
+{
+  "name": "ParkSmart",
+  "description": "Smart Parking Availability System — Real-time parking detection, AI availability prediction, reservations, and smart-city operations dashboard by Team Code Warrior's.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
